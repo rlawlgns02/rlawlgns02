@@ -1,6 +1,8 @@
-## IT인공지능 학부를 전공중인 김지훈 입니다.
+# 김지훈을 소개합니다 
 
-#현재는 2025Robot응용 SW개발자 과정을 공부중입니다.🌱
+## 나사렛 대학교 IT인공지능 학부를 재학이며
+## 현재는 2025Robot응용 SW개발자 과정을 공부중입니다.🌱
+
 
 <!--
 **rlawlgns02/rlawlgns02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
