@@ -3,6 +3,9 @@
 나사렛 대학교 IT인공지능 학부를 재학이며
 현재는 2025Robot응용 SW개발자 과정을 공부중입니다.🌱
 
+아래의 사진은 gpt를 이용해 간단하게 만들어본 캐릭터 입니다.
+![test](https://github.com/user-attachments/assets/eead371e-aa6c-436d-909c-905f0b33001e)
+
 
 <!--
 **rlawlgns02/rlawlgns02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
