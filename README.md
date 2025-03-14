@@ -1,4 +1,6 @@
-## Hi there 👋
+## IT인공지능 학부를 전공중인 김지훈 입니다.
+
+#현재는 2025Robot응용 SW개발자 과정을 공부중입니다.🌱
 
 <!--
 **rlawlgns02/rlawlgns02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
