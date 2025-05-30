@@ -51,6 +51,4 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/> </a>
 </p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rlawlgns02&show_icons=true&locale=ko" alt="rlawlgns02" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rlawlgns02&" alt="rlawlgns02" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rlawlgns02&show_icons=true&locale=en&layout=compact" alt="rlawlgns02" /></p>
