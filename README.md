@@ -3,12 +3,12 @@
 
 - 🌱 저는 현재 **지능형 로봇 서비스 개발을 위한 일러스트레이션 SW 개발자 양성과정**을 배우고 있습니다.
 
-- 💬 **https://rlawlgns02.github.io/profile/**에 대해 궁금한 점이 있으시면 물어보세요.
-
 - 📫 연락 방법: **KJHrlawlgns02@gmail.com**
 
 ## 🌐HTML/CSS
- 
+ - [Profile](https://rlawlgns02.github.io/profile/)
+   프로필 포트폴리오 페이지
+ - 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
