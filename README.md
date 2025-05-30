@@ -1,7 +1,6 @@
 <h1 align="center">안녕하세요👋 김지훈입니다</h1>
 <h3 align="center">나사렛대학교 IT인공지능학부</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-tropy"><img src="https://github-profile-tropy.vercel.app/?username=rlawlgns02" alt="rlawlgns02" /></a> </p>
 
 - 🌱 저는 현재 **지능형 로봇 서비스 개발을 위한 일러스트레이션 SW 개발자 양성과정**을 배우고 있습니다.
 
