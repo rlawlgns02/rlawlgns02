@@ -1,6 +1,5 @@
-<h1 align="center">안녕하세요👋 김지훈입니다</h1>
-<h3 align="center">나사렛대학교 IT인공지능학부</h3>
-
+<h1 align="center">Hi 👋, I'm Ji Hoon Kim</h1>
+<h3 align="center">저는 나사렛대학교 IT인공지능학부 4학년에 재학중입니다. </h3>
 
 - 🌱 저는 현재 **지능형 로봇 서비스 개발을 위한 일러스트레이션 SW 개발자 양성과정**을 배우고 있습니다.
 
@@ -8,6 +7,8 @@
 
 - 📫 연락 방법: **KJHrlawlgns02@gmail.com**
 
+## 🌐HTML/CSS
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
